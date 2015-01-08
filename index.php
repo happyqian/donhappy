@@ -1,3 +1,7 @@
 <?php
-phpinfo();
+class Obj {
+	function __construct(){
+		
+	}
+}
 ?>
